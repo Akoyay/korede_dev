@@ -8,11 +8,7 @@ This website showcases my web development skills, services, and projects in a mo
 
 ## 🌐 Live Demo
 
-**Website:** *(Add your GitHub Pages link here)*
-
-Example:
-
-https://yourusername.github.io/KoredeDEV/
+**Website:** https://akoyay.github.io/korede_dev
 
 ---
 
